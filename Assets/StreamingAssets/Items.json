@@ -1,0 +1,16 @@
+[
+  {
+    "id": 0,
+    "title": "Corn seeds",
+    "value": 6,
+    "quality": 5,
+    "slug": "seed5_09"
+  },
+  {
+    "id": 1,
+    "title": "Tomato seeds",
+    "value": 543,
+    "quality": 8,
+    "slug": "seed5_15"
+  }
+]

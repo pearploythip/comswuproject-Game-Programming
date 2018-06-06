@@ -1,0 +1,2127 @@
+fileFormatVersion: 2
+guid: 64de472d74cac9940bf0e8e908a66520
+timeCreated: 1493898006
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '!hero_misc_0'
+    21300002: '!hero_misc_1'
+    21300004: '!hero_misc_2'
+    21300006: '!hero_misc_3'
+    21300008: '!hero_misc_4'
+    21300010: '!hero_misc_5'
+    21300012: '!hero_misc_6'
+    21300014: '!hero_misc_7'
+    21300016: '!hero_misc_8'
+    21300018: '!hero_misc_9'
+    21300020: '!hero_misc_10'
+    21300022: '!hero_misc_11'
+    21300024: '!hero_misc_12'
+    21300026: '!hero_misc_13'
+    21300028: '!hero_misc_14'
+    21300030: '!hero_misc_15'
+    21300032: '!hero_misc_16'
+    21300034: '!hero_misc_17'
+    21300036: '!hero_misc_18'
+    21300038: '!hero_misc_19'
+    21300040: '!hero_misc_20'
+    21300042: '!hero_misc_21'
+    21300044: '!hero_misc_22'
+    21300046: '!hero_misc_23'
+    21300048: '!hero_misc_24'
+    21300050: '!hero_misc_25'
+    21300052: '!hero_misc_26'
+    21300054: '!hero_misc_27'
+    21300056: '!hero_misc_28'
+    21300058: '!hero_misc_29'
+    21300060: '!hero_misc_30'
+    21300062: '!hero_misc_31'
+    21300064: '!hero_misc_32'
+    21300066: '!hero_misc_33'
+    21300068: '!hero_misc_34'
+    21300070: '!hero_misc_35'
+    21300072: '!hero_misc_36'
+    21300074: '!hero_misc_37'
+    21300076: '!hero_misc_38'
+    21300078: '!hero_misc_39'
+    21300080: '!hero_misc_40'
+    21300082: '!hero_misc_41'
+    21300084: '!hero_misc_42'
+    21300086: '!hero_misc_43'
+    21300088: '!hero_misc_44'
+    21300090: '!hero_misc_45'
+    21300092: '!hero_misc_46'
+    21300094: '!hero_misc_47'
+    21300096: '!hero_misc_48'
+    21300098: '!hero_misc_49'
+    21300100: '!hero_misc_50'
+    21300102: '!hero_misc_51'
+    21300104: '!hero_misc_52'
+    21300106: '!hero_misc_53'
+    21300108: '!hero_misc_54'
+    21300110: '!hero_misc_55'
+    21300112: '!hero_misc_56'
+    21300114: '!hero_misc_57'
+    21300116: '!hero_misc_58'
+    21300118: '!hero_misc_59'
+    21300120: '!hero_misc_60'
+    21300122: '!hero_misc_61'
+    21300124: '!hero_misc_62'
+    21300126: '!hero_misc_63'
+    21300128: '!hero_misc_64'
+    21300130: '!hero_misc_65'
+    21300132: '!hero_misc_66'
+    21300134: '!hero_misc_67'
+    21300136: '!hero_misc_68'
+    21300138: '!hero_misc_69'
+    21300140: '!hero_misc_70'
+    21300142: '!hero_misc_71'
+    21300144: '!hero_misc_72'
+    21300146: '!hero_misc_73'
+    21300148: '!hero_misc_74'
+    21300150: '!hero_misc_75'
+    21300152: '!hero_misc_76'
+    21300154: '!hero_misc_77'
+    21300156: '!hero_misc_78'
+    21300158: '!hero_misc_79'
+    21300160: '!hero_misc_80'
+    21300162: '!hero_misc_81'
+    21300164: '!hero_misc_82'
+    21300166: '!hero_misc_83'
+    21300168: '!hero_misc_84'
+    21300170: '!hero_misc_85'
+    21300172: '!hero_misc_86'
+    21300174: '!hero_misc_87'
+    21300176: '!hero_misc_88'
+    21300178: '!hero_misc_89'
+    21300180: '!hero_misc_90'
+    21300182: '!hero_misc_91'
+    21300184: '!hero_misc_92'
+    21300186: '!hero_misc_93'
+    21300188: '!hero_misc_94'
+    21300190: '!hero_misc_95'
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!hero_misc_1'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 420
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -27}
+        - {x: -12, y: -28}
+        - {x: 8, y: -28}
+        - {x: 12, y: -26}
+        - {x: 12, y: 12}
+        - {x: 9, y: 16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -22}
+        - {x: -12, y: -26}
+        - {x: 7, y: -26}
+        - {x: 12, y: -18}
+        - {x: 12, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_4'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 420
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -13, y: 9}
+        - {x: -13, y: -27}
+        - {x: -10, y: -28}
+        - {x: 13, y: -28}
+        - {x: 14, y: -27}
+        - {x: 14, y: 9}
+        - {x: 7, y: 14}
+      physicsShape:
+      - - {x: 11, y: 14}
+        - {x: -10, y: 14}
+        - {x: -13, y: 8}
+        - {x: -13, y: -16}
+        - {x: -10, y: -27}
+        - {x: 7, y: -27}
+        - {x: 13, y: -21}
+        - {x: 14, y: -19}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_7'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 420
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 15}
+        - {x: -20, y: 12}
+        - {x: -17, y: 2}
+        - {x: -14, y: -3}
+        - {x: -25, y: -16}
+        - {x: -25, y: -18}
+        - {x: -17, y: -28}
+        - {x: 11, y: -28}
+        - {x: 11, y: 15}
+      physicsShape:
+      - - {x: -9, y: 15}
+        - {x: -19, y: 11}
+        - {x: -25, y: -5}
+        - {x: -25, y: -23}
+        - {x: -22, y: -26}
+        - {x: 6, y: -26}
+        - {x: 9, y: -25}
+        - {x: 10, y: -20}
+        - {x: 10, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_10'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 420
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 3}
+        - {x: 9, y: 15}
+        - {x: -9, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -27}
+        - {x: -10, y: -28}
+        - {x: 12, y: -28}
+        - {x: 15, y: -27}
+        - {x: 24, y: -18}
+        - {x: 24, y: -11}
+      physicsShape:
+      - - {x: 10, y: 15}
+        - {x: -8, y: 15}
+        - {x: -12, y: 14}
+        - {x: -12, y: -26}
+        - {x: 23, y: -26}
+        - {x: 24, y: -25}
+        - {x: 24, y: -8}
+        - {x: 18, y: 3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_13'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 360
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -13, y: 10}
+        - {x: -13, y: -26}
+        - {x: -12, y: -30}
+        - {x: 1, y: -30}
+        - {x: 12, y: -28}
+        - {x: 12, y: 16}
+      physicsShape:
+      - - {x: 12, y: 10}
+        - {x: 8, y: 16}
+        - {x: -13, y: 16}
+        - {x: -13, y: -30}
+        - {x: 1, y: -30}
+        - {x: 8, y: -25}
+        - {x: 12, y: -3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_16'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 10}
+        - {x: -13, y: -28}
+        - {x: 8, y: -28}
+        - {x: 15, y: -25}
+        - {x: 15, y: 2}
+        - {x: 14, y: 7}
+        - {x: 6, y: 14}
+        - {x: -8, y: 14}
+      physicsShape:
+      - - {x: 6, y: 14}
+        - {x: -11, y: 14}
+        - {x: -13, y: 8}
+        - {x: -13, y: -11}
+        - {x: -7, y: -27}
+        - {x: 6, y: -27}
+        - {x: 15, y: -20}
+        - {x: 15, y: -9}
+        - {x: 14, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_19'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 360
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 2}
+        - {x: -26, y: -28}
+        - {x: 11, y: -28}
+        - {x: 11, y: 15}
+        - {x: -11, y: 15}
+        - {x: -22, y: 10}
+      physicsShape:
+      - - {x: -17, y: 15}
+        - {x: -26, y: 1}
+        - {x: -26, y: -27}
+        - {x: -1, y: -27}
+        - {x: 8, y: -24}
+        - {x: 10, y: -4}
+        - {x: 10, y: 8}
+        - {x: 5, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_22'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 11}
+        - {x: -12, y: 8}
+        - {x: -12, y: -28}
+        - {x: 26, y: -28}
+        - {x: 26, y: -13}
+        - {x: 12, y: 15}
+        - {x: -7, y: 15}
+      physicsShape:
+      - - {x: 24, y: -13}
+        - {x: 11, y: 15}
+        - {x: -9, y: 15}
+        - {x: -11, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -9}
+        - {x: -10, y: -24}
+        - {x: -1, y: -27}
+        - {x: 23, y: -27}
+        - {x: 26, y: -26}
+        - {x: 26, y: -17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_25'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 300
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -18, y: -5}
+        - {x: -18, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 13}
+        - {x: 7, y: 16}
+      physicsShape:
+      - - {x: -18, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 13}
+        - {x: 11, y: 16}
+        - {x: -13, y: 16}
+        - {x: -18, y: -10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_28'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 300
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 14}
+        - {x: -9, y: 14}
+        - {x: -13, y: 12}
+        - {x: -13, y: -27}
+        - {x: 18, y: -27}
+        - {x: 19, y: -26}
+        - {x: 19, y: 1}
+        - {x: 17, y: 9}
+      physicsShape:
+      - - {x: -13, y: -17}
+        - {x: -10, y: -27}
+        - {x: 9, y: -27}
+        - {x: 19, y: -25}
+        - {x: 19, y: 2}
+        - {x: 18, y: 9}
+        - {x: 12, y: 14}
+        - {x: -8, y: 14}
+        - {x: -13, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_31'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 300
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -18, y: 7}
+        - {x: -16, y: 2}
+        - {x: -31, y: -17}
+        - {x: -32, y: -20}
+        - {x: -32, y: -26}
+        - {x: -28, y: -28}
+        - {x: 7, y: -28}
+        - {x: 11, y: -27}
+        - {x: 11, y: 8}
+        - {x: 5, y: 15}
+      physicsShape:
+      - - {x: 5, y: 15}
+        - {x: -9, y: 15}
+        - {x: -18, y: 7}
+        - {x: -32, y: -12}
+        - {x: -32, y: -28}
+        - {x: 4, y: -28}
+        - {x: 10, y: -11}
+        - {x: 10, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_34'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 300
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 15}
+        - {x: -12, y: 14}
+        - {x: -12, y: -28}
+        - {x: 32, y: -28}
+        - {x: 32, y: 7}
+        - {x: 29, y: 15}
+      physicsShape:
+      - - {x: -11, y: -25}
+        - {x: 0, y: -28}
+        - {x: 32, y: -28}
+        - {x: 32, y: -2}
+        - {x: 24, y: 15}
+        - {x: -12, y: 15}
+        - {x: -12, y: -20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_37'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -19, y: 10}
+        - {x: -20, y: -7}
+        - {x: -20, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 16}
+      physicsShape:
+      - - {x: -12, y: 16}
+        - {x: -18, y: -12}
+        - {x: -20, y: -23}
+        - {x: -20, y: -30}
+        - {x: 6, y: -30}
+        - {x: 12, y: -14}
+        - {x: 12, y: 14}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_40'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 14}
+        - {x: -13, y: 8}
+        - {x: -13, y: -26}
+        - {x: -10, y: -27}
+        - {x: 18, y: -27}
+        - {x: 18, y: 11}
+        - {x: 9, y: 14}
+      physicsShape:
+      - - {x: -10, y: 14}
+        - {x: -13, y: 9}
+        - {x: -13, y: -4}
+        - {x: -12, y: -13}
+        - {x: -9, y: -27}
+        - {x: 18, y: -27}
+        - {x: 18, y: 11}
+        - {x: 9, y: 14}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_43'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 240
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -18, y: 7}
+        - {x: -17, y: 1}
+        - {x: -31, y: -15}
+        - {x: -32, y: -17}
+        - {x: -32, y: -28}
+        - {x: 7, y: -28}
+        - {x: 11, y: -27}
+        - {x: 11, y: 8}
+        - {x: 5, y: 15}
+      physicsShape:
+      - - {x: 5, y: 15}
+        - {x: -9, y: 15}
+        - {x: -18, y: 7}
+        - {x: -17, y: 1}
+        - {x: -31, y: -15}
+        - {x: -32, y: -16}
+        - {x: -32, y: -27}
+        - {x: -30, y: -28}
+        - {x: 4, y: -28}
+        - {x: 10, y: -11}
+        - {x: 10, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_46'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 240
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -18}
+        - {x: 16, y: 15}
+        - {x: -7, y: 15}
+        - {x: -10, y: 11}
+        - {x: -12, y: 6}
+        - {x: -12, y: -25}
+        - {x: -8, y: -28}
+        - {x: 30, y: -28}
+        - {x: 32, y: -25}
+        - {x: 32, y: -20}
+      physicsShape:
+      - - {x: 31, y: -18}
+        - {x: 28, y: -15}
+        - {x: 11, y: 15}
+        - {x: -12, y: 15}
+        - {x: -12, y: -18}
+        - {x: -11, y: -25}
+        - {x: -3, y: -26}
+        - {x: 17, y: -28}
+        - {x: 30, y: -28}
+        - {x: 32, y: -25}
+        - {x: 32, y: -20}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_48'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -29}
+        - {x: 12, y: 20}
+        - {x: 9, y: 30}
+        - {x: -15, y: 30}
+        - {x: -15, y: -29}
+      physicsShape:
+      - - {x: -15, y: 30}
+        - {x: -15, y: -11}
+        - {x: -10, y: -28}
+        - {x: 12, y: -28}
+        - {x: 12, y: 23}
+        - {x: -2, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_49'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -29}
+        - {x: 12, y: 20}
+        - {x: 9, y: 30}
+        - {x: -15, y: 30}
+        - {x: -15, y: -29}
+      physicsShape:
+      - - {x: -15, y: 30}
+        - {x: -15, y: -11}
+        - {x: -10, y: -28}
+        - {x: 12, y: -28}
+        - {x: 12, y: 23}
+        - {x: -2, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_50'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -29}
+        - {x: 12, y: 20}
+        - {x: 9, y: 30}
+        - {x: -15, y: 30}
+        - {x: -15, y: -29}
+      physicsShape:
+      - - {x: -15, y: 30}
+        - {x: -15, y: -11}
+        - {x: -10, y: -28}
+        - {x: 12, y: -28}
+        - {x: 12, y: 23}
+        - {x: -2, y: 30}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_51'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: 1, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -29}
+        - {x: 12, y: -29}
+        - {x: 13, y: -20}
+        - {x: 13, y: 14}
+        - {x: 12, y: 18}
+      physicsShape:
+      - - {x: 2, y: 19}
+        - {x: -13, y: 11}
+        - {x: -13, y: -12}
+        - {x: -11, y: -28}
+        - {x: 5, y: -28}
+        - {x: 13, y: -19}
+        - {x: 13, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_52'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: 1, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -29}
+        - {x: 12, y: -29}
+        - {x: 13, y: -20}
+        - {x: 13, y: 14}
+        - {x: 12, y: 18}
+      physicsShape:
+      - - {x: 2, y: 19}
+        - {x: -13, y: 11}
+        - {x: -13, y: -12}
+        - {x: -11, y: -28}
+        - {x: 5, y: -28}
+        - {x: 13, y: -19}
+        - {x: 13, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_53'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 19}
+        - {x: 1, y: 19}
+        - {x: -13, y: 12}
+        - {x: -13, y: -29}
+        - {x: 12, y: -29}
+        - {x: 13, y: -20}
+        - {x: 13, y: 14}
+        - {x: 12, y: 18}
+      physicsShape:
+      - - {x: 2, y: 19}
+        - {x: -13, y: 11}
+        - {x: -13, y: -12}
+        - {x: -11, y: -28}
+        - {x: 5, y: -28}
+        - {x: 13, y: -19}
+        - {x: 13, y: 19}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_54'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26}
+        - {x: -3, y: 17}
+        - {x: -12, y: 11}
+        - {x: -12, y: -25}
+        - {x: -7, y: -28}
+        - {x: 10, y: -28}
+        - {x: 15, y: -15}
+        - {x: 15, y: 26}
+      physicsShape:
+      - - {x: 8, y: 26}
+        - {x: 7, y: 25}
+        - {x: -11, y: 12}
+        - {x: -11, y: -24}
+        - {x: -2, y: -27}
+        - {x: 8, y: -27}
+        - {x: 15, y: -12}
+        - {x: 15, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_55'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26}
+        - {x: -3, y: 17}
+        - {x: -12, y: 11}
+        - {x: -12, y: -25}
+        - {x: -7, y: -28}
+        - {x: 10, y: -28}
+        - {x: 15, y: -15}
+        - {x: 15, y: 26}
+      physicsShape:
+      - - {x: 8, y: 26}
+        - {x: 7, y: 25}
+        - {x: -11, y: 12}
+        - {x: -11, y: -24}
+        - {x: -2, y: -27}
+        - {x: 8, y: -27}
+        - {x: 15, y: -12}
+        - {x: 15, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_56'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 26}
+        - {x: -3, y: 17}
+        - {x: -12, y: 11}
+        - {x: -12, y: -25}
+        - {x: -7, y: -28}
+        - {x: 10, y: -28}
+        - {x: 15, y: -15}
+        - {x: 15, y: 26}
+      physicsShape:
+      - - {x: 8, y: 26}
+        - {x: 7, y: 25}
+        - {x: -11, y: 12}
+        - {x: -11, y: -24}
+        - {x: -2, y: -27}
+        - {x: 8, y: -27}
+        - {x: 15, y: -12}
+        - {x: 15, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_57'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -15, y: 26}
+        - {x: -17, y: 21}
+        - {x: -17, y: -11}
+        - {x: -13, y: -24}
+        - {x: -7, y: -28}
+        - {x: 5, y: -28}
+        - {x: 11, y: -26}
+        - {x: 11, y: 11}
+        - {x: -7, y: 25}
+      physicsShape:
+      - - {x: -7, y: 26}
+        - {x: -16, y: 26}
+        - {x: -17, y: 23}
+        - {x: -17, y: -7}
+        - {x: -10, y: -26}
+        - {x: -7, y: -27}
+        - {x: -1, y: -27}
+        - {x: 7, y: -23}
+        - {x: 9, y: -11}
+        - {x: 9, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_58'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -15, y: 26}
+        - {x: -17, y: 21}
+        - {x: -17, y: -11}
+        - {x: -13, y: -24}
+        - {x: -7, y: -28}
+        - {x: 5, y: -28}
+        - {x: 11, y: -26}
+        - {x: 11, y: 11}
+        - {x: -7, y: 25}
+      physicsShape:
+      - - {x: -7, y: 26}
+        - {x: -16, y: 26}
+        - {x: -17, y: 23}
+        - {x: -17, y: -7}
+        - {x: -10, y: -26}
+        - {x: -7, y: -27}
+        - {x: -1, y: -27}
+        - {x: 7, y: -23}
+        - {x: 9, y: -11}
+        - {x: 9, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_59'
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 26}
+        - {x: -15, y: 26}
+        - {x: -17, y: 21}
+        - {x: -17, y: -11}
+        - {x: -13, y: -24}
+        - {x: -7, y: -28}
+        - {x: 5, y: -28}
+        - {x: 11, y: -26}
+        - {x: 11, y: 11}
+        - {x: -7, y: 25}
+      physicsShape:
+      - - {x: -7, y: 26}
+        - {x: -16, y: 26}
+        - {x: -17, y: 23}
+        - {x: -17, y: -7}
+        - {x: -10, y: -26}
+        - {x: -7, y: -27}
+        - {x: -1, y: -27}
+        - {x: 7, y: -23}
+        - {x: 9, y: -11}
+        - {x: 9, y: 12}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_60'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -16, y: -29}
+        - {x: 11, y: -29}
+        - {x: 12, y: -28}
+        - {x: 12, y: 17}
+        - {x: 11, y: 20}
+        - {x: -4, y: 30}
+      physicsShape:
+      - - {x: -16, y: 27}
+        - {x: -16, y: -11}
+        - {x: -11, y: -25}
+        - {x: -3, y: -28}
+        - {x: 12, y: -28}
+        - {x: 12, y: 22}
+        - {x: -13, y: 27}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_61'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -16, y: -29}
+        - {x: 11, y: -29}
+        - {x: 12, y: -28}
+        - {x: 12, y: 17}
+        - {x: 11, y: 20}
+        - {x: -4, y: 30}
+      physicsShape:
+      - - {x: -16, y: 27}
+        - {x: -16, y: -11}
+        - {x: -11, y: -25}
+        - {x: -3, y: -28}
+        - {x: 12, y: -28}
+        - {x: 12, y: 22}
+        - {x: -13, y: 27}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_62'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 30}
+        - {x: -16, y: -29}
+        - {x: 11, y: -29}
+        - {x: 12, y: -28}
+        - {x: 12, y: 17}
+        - {x: 11, y: 20}
+        - {x: -4, y: 30}
+      physicsShape:
+      - - {x: -16, y: 27}
+        - {x: -16, y: -11}
+        - {x: -11, y: -25}
+        - {x: -3, y: -28}
+        - {x: 12, y: -28}
+        - {x: 12, y: 22}
+        - {x: -13, y: 27}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_63'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -13, y: 10}
+        - {x: -13, y: -28}
+        - {x: -12, y: -29}
+        - {x: 10, y: -29}
+        - {x: 14, y: -27}
+        - {x: 14, y: 18}
+        - {x: 9, y: 20}
+      physicsShape:
+      - - {x: -3, y: 17}
+        - {x: -10, y: 15}
+        - {x: -13, y: 8}
+        - {x: -13, y: -9}
+        - {x: -8, y: -28}
+        - {x: 10, y: -28}
+        - {x: 13, y: -10}
+        - {x: 13, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_64'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -13, y: 10}
+        - {x: -13, y: -28}
+        - {x: -12, y: -29}
+        - {x: 10, y: -29}
+        - {x: 14, y: -27}
+        - {x: 14, y: 18}
+        - {x: 9, y: 20}
+      physicsShape:
+      - - {x: -3, y: 17}
+        - {x: -10, y: 15}
+        - {x: -13, y: 8}
+        - {x: -13, y: -9}
+        - {x: -8, y: -28}
+        - {x: 10, y: -28}
+        - {x: 13, y: -10}
+        - {x: 13, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_65'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -13, y: 10}
+        - {x: -13, y: -28}
+        - {x: -12, y: -29}
+        - {x: 10, y: -29}
+        - {x: 14, y: -27}
+        - {x: 14, y: 18}
+        - {x: 9, y: 20}
+      physicsShape:
+      - - {x: -3, y: 17}
+        - {x: -10, y: 15}
+        - {x: -13, y: 8}
+        - {x: -13, y: -9}
+        - {x: -8, y: -28}
+        - {x: 10, y: -28}
+        - {x: 13, y: -10}
+        - {x: 13, y: 17}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_66'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 26}
+        - {x: -14, y: -26}
+        - {x: -9, y: -28}
+        - {x: 9, y: -28}
+        - {x: 12, y: -21}
+        - {x: 12, y: 23}
+        - {x: 6, y: 26}
+      physicsShape:
+      - - {x: -14, y: 26}
+        - {x: -14, y: -8}
+        - {x: -7, y: -26}
+        - {x: 8, y: -26}
+        - {x: 12, y: -8}
+        - {x: 12, y: 19}
+        - {x: -1, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_67'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 26}
+        - {x: -14, y: -26}
+        - {x: -9, y: -28}
+        - {x: 9, y: -28}
+        - {x: 12, y: -21}
+        - {x: 12, y: 23}
+        - {x: 6, y: 26}
+      physicsShape:
+      - - {x: -14, y: 26}
+        - {x: -14, y: -8}
+        - {x: -7, y: -26}
+        - {x: 8, y: -26}
+        - {x: 12, y: -8}
+        - {x: 12, y: 19}
+        - {x: -1, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_68'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 26}
+        - {x: -14, y: -26}
+        - {x: -9, y: -28}
+        - {x: 9, y: -28}
+        - {x: 12, y: -21}
+        - {x: 12, y: 23}
+        - {x: 6, y: 26}
+      physicsShape:
+      - - {x: -14, y: 26}
+        - {x: -14, y: -8}
+        - {x: -7, y: -26}
+        - {x: 8, y: -26}
+        - {x: 12, y: -8}
+        - {x: 12, y: 19}
+        - {x: -1, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_69'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 26}
+        - {x: -5, y: 25}
+        - {x: -14, y: 22}
+        - {x: -14, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -26}
+        - {x: 13, y: 24}
+        - {x: 12, y: 26}
+      physicsShape:
+      - - {x: 2, y: 26}
+        - {x: 1, y: 23}
+        - {x: 2, y: 20}
+        - {x: 5, y: 20}
+        - {x: 2, y: 18}
+        - {x: -10, y: 18}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -5, y: -25}
+        - {x: -3, y: -26}
+        - {x: 6, y: -26}
+        - {x: 13, y: -18}
+        - {x: 13, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_70'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 26}
+        - {x: -5, y: 25}
+        - {x: -14, y: 22}
+        - {x: -14, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -26}
+        - {x: 13, y: 24}
+        - {x: 12, y: 26}
+      physicsShape:
+      - - {x: 2, y: 26}
+        - {x: 1, y: 23}
+        - {x: 2, y: 20}
+        - {x: 5, y: 20}
+        - {x: 2, y: 18}
+        - {x: -10, y: 18}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -5, y: -25}
+        - {x: -3, y: -26}
+        - {x: 6, y: -26}
+        - {x: 13, y: -18}
+        - {x: 13, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_71'
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 26}
+        - {x: -5, y: 25}
+        - {x: -14, y: 22}
+        - {x: -14, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -26}
+        - {x: 13, y: 24}
+        - {x: 12, y: 26}
+      physicsShape:
+      - - {x: 2, y: 26}
+        - {x: 1, y: 23}
+        - {x: 2, y: 20}
+        - {x: 5, y: 20}
+        - {x: 2, y: 18}
+        - {x: -10, y: 18}
+        - {x: -14, y: 10}
+        - {x: -14, y: -9}
+        - {x: -5, y: -25}
+        - {x: -3, y: -26}
+        - {x: 6, y: -26}
+        - {x: 13, y: -18}
+        - {x: 13, y: 26}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_72'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -15, y: 13}
+        - {x: -15, y: -29}
+        - {x: -13, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 12}
+      physicsShape:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -30}
+        - {x: 9, y: -30}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_73'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -15, y: 13}
+        - {x: -15, y: -29}
+        - {x: -13, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 12}
+      physicsShape:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -30}
+        - {x: 9, y: -30}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_74'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -15, y: 13}
+        - {x: -15, y: -29}
+        - {x: -13, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 12}
+      physicsShape:
+      - - {x: -13, y: 16}
+        - {x: -13, y: -30}
+        - {x: 9, y: -30}
+        - {x: 12, y: -11}
+        - {x: 12, y: 11}
+        - {x: 7, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_75'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: -8, y: 13}
+        - {x: -13, y: 6}
+        - {x: -13, y: -29}
+        - {x: -11, y: -30}
+        - {x: 11, y: -30}
+        - {x: 15, y: -27}
+        - {x: 16, y: -14}
+        - {x: 16, y: 9}
+      physicsShape:
+      - - {x: -11, y: 13}
+        - {x: -13, y: 9}
+        - {x: -13, y: -18}
+        - {x: -9, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -15}
+        - {x: 13, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_76'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: -8, y: 13}
+        - {x: -13, y: 6}
+        - {x: -13, y: -29}
+        - {x: -11, y: -30}
+        - {x: 11, y: -30}
+        - {x: 15, y: -27}
+        - {x: 16, y: -14}
+        - {x: 16, y: 9}
+      physicsShape:
+      - - {x: -11, y: 13}
+        - {x: -13, y: 9}
+        - {x: -13, y: -18}
+        - {x: -9, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -15}
+        - {x: 13, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_77'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 13}
+        - {x: -8, y: 13}
+        - {x: -13, y: 6}
+        - {x: -13, y: -29}
+        - {x: -11, y: -30}
+        - {x: 11, y: -30}
+        - {x: 15, y: -27}
+        - {x: 16, y: -14}
+        - {x: 16, y: 9}
+      physicsShape:
+      - - {x: -11, y: 13}
+        - {x: -13, y: 9}
+        - {x: -13, y: -18}
+        - {x: -9, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -15}
+        - {x: 13, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_78'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 15}
+        - {x: -32, y: 3}
+        - {x: -32, y: -24}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 11, y: 12}
+        - {x: 5, y: 15}
+      - - {x: -12, y: -9}
+        - {x: -10, y: -9}
+        - {x: -14, y: -10}
+      physicsShape:
+      - - {x: -21, y: 15}
+        - {x: -25, y: 14}
+        - {x: -32, y: -4}
+        - {x: -32, y: -23}
+        - {x: -21, y: -26}
+        - {x: 4, y: -26}
+        - {x: 10, y: -10}
+        - {x: 10, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_79'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 15}
+        - {x: -32, y: 3}
+        - {x: -32, y: -24}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 11, y: 12}
+        - {x: 5, y: 15}
+      - - {x: -12, y: -9}
+        - {x: -10, y: -9}
+        - {x: -14, y: -10}
+      physicsShape:
+      - - {x: -21, y: 15}
+        - {x: -25, y: 14}
+        - {x: -32, y: -4}
+        - {x: -32, y: -23}
+        - {x: -21, y: -26}
+        - {x: 4, y: -26}
+        - {x: 10, y: -10}
+        - {x: 10, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_80'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 15}
+        - {x: -32, y: 3}
+        - {x: -32, y: -24}
+        - {x: -13, y: -28}
+        - {x: 11, y: -28}
+        - {x: 11, y: 12}
+        - {x: 5, y: 15}
+      - - {x: -12, y: -9}
+        - {x: -10, y: -9}
+        - {x: -14, y: -10}
+      physicsShape:
+      - - {x: -21, y: 15}
+        - {x: -25, y: 14}
+        - {x: -32, y: -4}
+        - {x: -32, y: -23}
+        - {x: -21, y: -26}
+        - {x: 4, y: -26}
+        - {x: 10, y: -10}
+        - {x: 10, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_81'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -1}
+        - {x: 12, y: -3}
+        - {x: 12, y: -6}
+        - {x: 12, y: 0}
+        - {x: 14, y: 0}
+        - {x: 18, y: 3}
+        - {x: 10, y: 15}
+        - {x: -6, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -28}
+        - {x: 23, y: -28}
+        - {x: 32, y: -24}
+        - {x: 32, y: -1}
+        - {x: 22, y: 4}
+      physicsShape:
+      - - {x: -9, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -14}
+        - {x: -7, y: -26}
+        - {x: 9, y: -26}
+        - {x: 32, y: -17}
+        - {x: 32, y: -1}
+        - {x: 17, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_82'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -1}
+        - {x: 12, y: -3}
+        - {x: 12, y: -6}
+        - {x: 12, y: 0}
+        - {x: 14, y: 0}
+        - {x: 18, y: 3}
+        - {x: 10, y: 15}
+        - {x: -6, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -28}
+        - {x: 23, y: -28}
+        - {x: 32, y: -24}
+        - {x: 32, y: -1}
+        - {x: 22, y: 4}
+      physicsShape:
+      - - {x: -9, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -14}
+        - {x: -7, y: -26}
+        - {x: 9, y: -26}
+        - {x: 32, y: -17}
+        - {x: 32, y: -1}
+        - {x: 17, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_83'
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -1}
+        - {x: 12, y: -3}
+        - {x: 12, y: -6}
+        - {x: 12, y: 0}
+        - {x: 14, y: 0}
+        - {x: 18, y: 3}
+        - {x: 10, y: 15}
+        - {x: -6, y: 15}
+        - {x: -12, y: 13}
+        - {x: -12, y: -28}
+        - {x: 23, y: -28}
+        - {x: 32, y: -24}
+        - {x: 32, y: -1}
+        - {x: 22, y: 4}
+      physicsShape:
+      - - {x: -9, y: 15}
+        - {x: -12, y: 10}
+        - {x: -12, y: -14}
+        - {x: -7, y: -26}
+        - {x: 9, y: -26}
+        - {x: 32, y: -17}
+        - {x: 32, y: -1}
+        - {x: 17, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_84'
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -23}
+        - {x: -12, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 13}
+        - {x: 7, y: 16}
+      physicsShape:
+      - - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -23}
+        - {x: -12, y: -30}
+        - {x: 9, y: -30}
+        - {x: 12, y: -3}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_85'
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -23}
+        - {x: -12, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 13}
+        - {x: 7, y: 16}
+      physicsShape:
+      - - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -23}
+        - {x: -12, y: -30}
+        - {x: 9, y: -30}
+        - {x: 12, y: -3}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_86'
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -13, y: 11}
+        - {x: -13, y: -23}
+        - {x: -12, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 13}
+        - {x: 7, y: 16}
+      physicsShape:
+      - - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -23}
+        - {x: -12, y: -30}
+        - {x: 9, y: -30}
+        - {x: 12, y: -3}
+        - {x: 12, y: 10}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_87'
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -10}
+        - {x: 12, y: 11}
+        - {x: 10, y: 13}
+        - {x: -13, y: 13}
+        - {x: -13, y: -30}
+        - {x: 8, y: -30}
+        - {x: 11, y: -25}
+        - {x: 16, y: -14}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: 10, y: 13}
+        - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -12}
+        - {x: -10, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -16}
+        - {x: 13, y: 0}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_88'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -10}
+        - {x: 12, y: 11}
+        - {x: 10, y: 13}
+        - {x: -13, y: 13}
+        - {x: -13, y: -30}
+        - {x: 8, y: -30}
+        - {x: 11, y: -25}
+        - {x: 16, y: -14}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: 10, y: 13}
+        - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -12}
+        - {x: -10, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -16}
+        - {x: 13, y: 0}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_89'
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -10}
+        - {x: 12, y: 11}
+        - {x: 10, y: 13}
+        - {x: -13, y: 13}
+        - {x: -13, y: -30}
+        - {x: 8, y: -30}
+        - {x: 11, y: -25}
+        - {x: 16, y: -14}
+        - {x: 16, y: -11}
+      physicsShape:
+      - - {x: 10, y: 13}
+        - {x: -10, y: 13}
+        - {x: -13, y: 10}
+        - {x: -13, y: -12}
+        - {x: -10, y: -28}
+        - {x: 6, y: -28}
+        - {x: 13, y: -16}
+        - {x: 13, y: 0}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_90'
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -18, y: 7}
+        - {x: -32, y: 3}
+        - {x: -32, y: -17}
+        - {x: -24, y: -28}
+        - {x: 8, y: -28}
+        - {x: 11, y: -26}
+        - {x: 11, y: 8}
+        - {x: 5, y: 15}
+      physicsShape:
+      - - {x: -12, y: 15}
+        - {x: -18, y: 7}
+        - {x: -17, y: 1}
+        - {x: -32, y: -6}
+        - {x: -32, y: -13}
+        - {x: -8, y: -26}
+        - {x: 5, y: -26}
+        - {x: 10, y: -14}
+        - {x: 10, y: 13}
+        - {x: 5, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_91'
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -18, y: 7}
+        - {x: -32, y: 3}
+        - {x: -32, y: -17}
+        - {x: -24, y: -28}
+        - {x: 8, y: -28}
+        - {x: 11, y: -26}
+        - {x: 11, y: 8}
+        - {x: 5, y: 15}
+      physicsShape:
+      - - {x: -12, y: 15}
+        - {x: -18, y: 7}
+        - {x: -17, y: 1}
+        - {x: -32, y: -6}
+        - {x: -32, y: -13}
+        - {x: -8, y: -26}
+        - {x: 5, y: -26}
+        - {x: 10, y: -14}
+        - {x: 10, y: 13}
+        - {x: 5, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_92'
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 15}
+        - {x: -18, y: 7}
+        - {x: -32, y: 3}
+        - {x: -32, y: -17}
+        - {x: -24, y: -28}
+        - {x: 8, y: -28}
+        - {x: 11, y: -26}
+        - {x: 11, y: 8}
+        - {x: 5, y: 15}
+      physicsShape:
+      - - {x: -12, y: 15}
+        - {x: -18, y: 7}
+        - {x: -17, y: 1}
+        - {x: -32, y: -6}
+        - {x: -32, y: -13}
+        - {x: -8, y: -26}
+        - {x: 5, y: -26}
+        - {x: 10, y: -14}
+        - {x: 10, y: 13}
+        - {x: 5, y: 15}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_93'
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -12, y: -27}
+        - {x: -11, y: -28}
+        - {x: 24, y: -28}
+        - {x: 32, y: -16}
+        - {x: 32, y: 4}
+        - {x: 18, y: 15}
+      physicsShape:
+      - - {x: 12, y: 15}
+        - {x: -9, y: 15}
+        - {x: -12, y: 9}
+        - {x: -12, y: -10}
+        - {x: -7, y: -23}
+        - {x: -6, y: -26}
+        - {x: 9, y: -26}
+        - {x: 32, y: -17}
+        - {x: 32, y: -7}
+        - {x: 25, y: -7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_94'
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -12, y: -27}
+        - {x: -11, y: -28}
+        - {x: 24, y: -28}
+        - {x: 32, y: -16}
+        - {x: 32, y: 4}
+        - {x: 18, y: 15}
+      physicsShape:
+      - - {x: 12, y: 15}
+        - {x: -9, y: 15}
+        - {x: -12, y: 9}
+        - {x: -12, y: -10}
+        - {x: -7, y: -23}
+        - {x: -6, y: -26}
+        - {x: 9, y: -26}
+        - {x: 32, y: -17}
+        - {x: 32, y: -7}
+        - {x: 25, y: -7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_misc_95'
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 15}
+        - {x: -12, y: -27}
+        - {x: -11, y: -28}
+        - {x: 24, y: -28}
+        - {x: 32, y: -16}
+        - {x: 32, y: 4}
+        - {x: 18, y: 15}
+      physicsShape:
+      - - {x: 12, y: 15}
+        - {x: -9, y: 15}
+        - {x: -12, y: 9}
+        - {x: -12, y: -10}
+        - {x: -7, y: -23}
+        - {x: -6, y: -26}
+        - {x: 9, y: -26}
+        - {x: 32, y: -17}
+        - {x: 32, y: -7}
+        - {x: 25, y: -7}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 15dc7a15c0714ad4883e132d2125736e
+timeCreated: 1493911171
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: '!hero_shovel_1_3'
+    21300002: '!hero_shovel_1_4'
+    21300004: '!hero_shovel_1_5'
+    21300006: '!hero_shovel_1_15'
+    21300008: '!hero_shovel_1_16'
+    21300010: '!hero_shovel_1_17'
+    21300012: '!hero_shovel_1_27'
+    21300014: '!hero_shovel_1_28'
+    21300016: '!hero_shovel_1_29'
+    21300018: '!hero_shovel_1_39'
+    21300020: '!hero_shovel_1_40'
+    21300022: '!hero_shovel_1_41'
+    21300024: '!hero_shovel_1_51'
+    21300026: '!hero_shovel_1_52'
+    21300028: '!hero_shovel_1_53'
+    21300030: '!hero_shovel_1_63'
+    21300032: '!hero_shovel_1_64'
+    21300034: '!hero_shovel_1_65'
+    21300036: '!hero_shovel_1_75'
+    21300038: '!hero_shovel_1_76'
+    21300040: '!hero_shovel_1_77'
+    21300042: '!hero_shovel_1_87'
+    21300044: '!hero_shovel_1_88'
+    21300046: '!hero_shovel_1_89'
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: '!hero_shovel_1_4'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 420
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -13, y: 13}
+        - {x: -13, y: -28}
+        - {x: 8, y: -28}
+        - {x: 12, y: -27}
+        - {x: 12, y: 14}
+        - {x: 7, y: 16}
+      physicsShape:
+      - - {x: 9, y: 16}
+        - {x: -7, y: 16}
+        - {x: -13, y: 14}
+        - {x: -13, y: -28}
+        - {x: 7, y: -28}
+        - {x: 12, y: -4}
+        - {x: 12, y: 11}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_shovel_1_16'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 360
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 16}
+      physicsShape:
+      - - {x: 12, y: 10}
+        - {x: 8, y: 16}
+        - {x: -10, y: 16}
+        - {x: -13, y: 12}
+        - {x: -13, y: -27}
+        - {x: -9, y: -29}
+        - {x: 3, y: -29}
+        - {x: 7, y: -28}
+        - {x: 12, y: -3}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_shovel_1_28'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 300
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -27}
+        - {x: -13, y: -30}
+        - {x: 11, y: -30}
+        - {x: 12, y: -27}
+        - {x: 12, y: 16}
+      physicsShape:
+      - - {x: -12, y: 16}
+        - {x: -13, y: 15}
+        - {x: -13, y: -30}
+        - {x: 4, y: -30}
+        - {x: 7, y: -29}
+        - {x: 12, y: -3}
+        - {x: 12, y: 11}
+        - {x: 8, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_shovel_1_40'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 12}
+        - {x: -16, y: -30}
+        - {x: 12, y: -30}
+        - {x: 12, y: 16}
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -14, y: 10}
+        - {x: -14, y: -29}
+        - {x: -12, y: -30}
+        - {x: 2, y: -30}
+        - {x: 7, y: -27}
+        - {x: 12, y: -2}
+        - {x: 12, y: 11}
+        - {x: 5, y: 16}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_shovel_1_52'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 13}
+        - {x: -13, y: -29}
+        - {x: 11, y: -29}
+        - {x: 12, y: -27}
+        - {x: 12, y: 12}
+        - {x: 11, y: 13}
+      physicsShape:
+      - - {x: 6, y: 13}
+        - {x: -11, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -7, y: -28}
+        - {x: 6, y: -28}
+        - {x: 12, y: -21}
+        - {x: 12, y: 7}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_shovel_1_64'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 120
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 13}
+        - {x: -13, y: 8}
+        - {x: -13, y: -25}
+        - {x: -10, y: -29}
+        - {x: 8, y: -29}
+        - {x: 14, y: -27}
+        - {x: 14, y: 6}
+        - {x: 6, y: 13}
+      physicsShape:
+      - - {x: -10, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: -13}
+        - {x: -8, y: -28}
+        - {x: 9, y: -28}
+        - {x: 12, y: -22}
+        - {x: 12, y: 7}
+        - {x: 6, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_shovel_1_76'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 60
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: -27}
+        - {x: -9, y: -28}
+        - {x: 12, y: -28}
+        - {x: 14, y: -26}
+        - {x: 14, y: 8}
+        - {x: 7, y: 13}
+      physicsShape:
+      - - {x: -11, y: 13}
+        - {x: -13, y: 7}
+        - {x: -13, y: -12}
+        - {x: -8, y: -28}
+        - {x: 8, y: -28}
+        - {x: 12, y: -27}
+        - {x: 12, y: 10}
+        - {x: 8, y: 13}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: '!hero_shovel_1_88'
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 13}
+        - {x: -13, y: 12}
+        - {x: -13, y: -23}
+        - {x: -11, y: -28}
+        - {x: 15, y: -28}
+        - {x: 15, y: 9}
+        - {x: 9, y: 13}
+      physicsShape:
+      - - {x: 14, y: -16}
+        - {x: 14, y: 7}
+        - {x: 12, y: 13}
+        - {x: -8, y: 13}
+        - {x: -13, y: 8}
+        - {x: -13, y: -5}
+        - {x: -9, y: -28}
+        - {x: 9, y: -28}
+        - {x: 14, y: -22}
+        - {x: 13, y: -19}
+        - {x: 9, y: -19}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
